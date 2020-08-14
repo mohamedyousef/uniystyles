@@ -1,8 +1,8 @@
 name: uniystyles
 description: A new Flutter package project.
 version: 0.0.1
-author: uniyapps
-homepage:
+author: mohamedyousef106@gmail.com
+homepage: https://github.com/mohamedyousef/uniystyles
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
